@@ -1,0 +1,8 @@
+# Certificados, credenciais e dados salvos no host
+certs/
+auth/
+data/
+
+# .Net
+bin/
+obj/
